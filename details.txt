@@ -1,0 +1,4 @@
+index.php needs to be located under ...\roles\apache2\files
+main.yml needs to be located under ...\roles\apache2\tasks
+db.php and dump.sql need to be located under ...\roles\mariadb\files
+The other main.yml needs to be located under ...\roles\mariadb\tasks
